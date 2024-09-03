@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "6cd183712fe4477a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0c5d092024d64ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "190f51aafd9f1f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Régions/Map Tuhuinn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "655b68f0767f3d43",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed8535b609fb919d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da2d2c54ed10ed59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dde695f60061a4f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1bdfaf01a693f94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c3f6d74d46d6aca",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e40f2849ecc3438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb0f6011845da0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Régions/Map Tuhuinn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fd52069e2f14239",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Régions/Map Tuhuinn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fffb6baa54dbbeae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddcb591cbe3b89f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Régions/Map Tuhuinn.md"
+              }
+            }
+          },
+          {
+            "id": "4c18e33d350f1296",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "63e400576e1e294c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "451cfbe7727effdd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "190f51aafd9f1f77",
+  "lastOpenFiles": [
+    "README.md",
+    "Tuhuinn/README.md",
+    "Tuhuinn",
+    "Régions/Deas`Tuhuinn.md",
+    "Régions/Map Tuhuinn.md",
+    "Pays/Beinnjwall/Beinnjwall.md",
+    "Régions/Tuhuinn_4k_2Up.png",
+    "Régions/Hanach`Tuhuinn/L'académie de Rannsachadh.md",
+    "Pays/Beinnjwall/Beinnjwall-FullText.png",
+    "Régions/Drawing 2024-08-31 17.04.21.excalidraw.md",
+    "Pasted Image 20240831170620_208.png",
+    "Sans titre",
+    "Régions/Hanach`Tuhuinn",
+    "dddzdzdz.md",
+    "Pays/Beinnjwall/Beinnjwall-fullText.png",
+    "Régions",
+    "Pays/Beinnjwall",
+    "ForgeInfernal-1Floor-2.png",
+    "Pays",
+    "Géographie/Région",
+    "Géographie/Région/Pays",
+    "Géographie",
+    "Idées",
+    "Excalidraw/Tuhuinn.md",
+    "Excalidraw/Forge.md",
+    "Tuhuinn.png",
+    "Excalidraw/Drawing 2024-04-23 18.42.13.excalidraw.md",
+    "Sans titre.canvas",
+    "traceImage - Left - Top.png",
+    "Excalidraw/Drawing 2024-04-23 18.18.08.excalidraw.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
