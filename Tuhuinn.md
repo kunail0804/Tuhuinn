@@ -1,46 +1,85 @@
 
 ## Présentation de l'univers
 
-[[Tuhuinn]] est un univers de fantaisie prenant racine dans le médiéval fantaisie comme présenter dans le jeu de rôle Dungeons & Dragons (D&D). Le projet empreinte des idées et thèmes de plusieurs genre comme l'épic fantaisie ou la dark fantaisie.
+[[Tuhuinn]] est un univers de fantaisie prenant racine dans le médiéval fantastique tel que présenté dans le jeu de rôle _Dungeons & Dragons_ (D&D). Le projet emprunte des idées et des thèmes de plusieurs genres comme l'epic fantasy ou la dark fantasy.
 
 ![[Tuhuinn_4k_2Up.png]]
-carte des [[Tuhuinn]] (incliné pour bonne visualisation des éléments)
+Carte des [[Tuhuinn]] (inclinée pour une meilleure visualisation des éléments)
 
 ## Les îles
 
-[[Tuhuinn]] est un archipel de la taille du sous continent indien dans notre monde. Il est caractériser par un paysage très diversifié variant entre des grandes plaines jusqu'au forêts profondes et ,hautes montagnes. Le climat ressemble à celui que l'on peut avoir en Europe de l'ouest. 
-Il se situe à l'ouest du %%Grand Continent%% au mileu de %%l'océan de l'ouest%%. Au nord se trouve %%les territoires viking%%.
-Il se compose de trois grande région :
-- [[Chlì`Tuhuinn]] : la grande île à gauche
-- [[Hanach`Tuhuinn]] : les petites îles du centre
-- [[Deas`Tuhuinn]] : la grande île de droite
+[[Tuhuinn]] est un archipel de la taille du sous-continent indien dans notre monde. Il est caractérisé par un paysage très diversifié, variant entre de grandes plaines, des forêts profondes et de hautes montagnes. Le climat ressemble à celui que l'on peut trouver en Europe de l'Ouest.  
+Il se situe à l'ouest du %%Grand Continent%%, au milieu de %%l'océan de l'Ouest%%. Au nord se trouvent %%les territoires vikings%%.
 
-Ces régions sont chacune unique au niveau de leur paysage, leur histoire et des populations qui les peuple.
+Il se compose de trois grandes régions :
+
+- [[Chlì`Tuhuinn]] : la grande île à gauche sur l'image ci-dessus
+- [[Hanach`Tuhuinn]] : les petites îles au centre sur l'image ci-dessus
+- [[Deas`Tuhuinn]] : la grande île à droite sur l'image ci-dessus
+
+Ces régions sont chacune uniques par leur paysage, leur histoire et les populations qui les peuplent.
 
 ## L'Histoire
 
-Les [[Tuhuinn]] ont une histoire très particulière due à leur situation géographique d'île. Cependant cela n'a pas toujours été le cas.
+Les [[Tuhuinn]] ont une histoire très particulière due à leur situation géographique insulaire. Cependant, cela n'a pas toujours été le cas.
 
 ### L'Ere des dieux
 
-A l'aube des temps, alors que les dieux et les êtres vivant vivaient tous ensemble en harmonie sur %%Terre%%, les îles [[Tuhuinn]] faisaient partie du %%Grand Continent%%. Au moment de l'événement appelé %%la guerre des dieux%%, de nombreuses batailles ont eu lieu à l'emplacement des [[Tuhuinn]] et ainsi plusieurs marques irréversible sont apparue comme les deux cratère : %%Cratère de [[Chlì`Tuhuinn]]%% et %%Cratère de [[Deas`Tuhuinn]]%%. C'est à cette époque qu'est aussi apparue la plus grande anomalie de l'archipel : la région de %%champ de bataille de [[Deas`Tuhuinn]]%%. %%Reggigigas%%, dieu créateur de %%Terre%% et de la vie, avait alors pris la décision d'interdire les dieux d'aller sur %%Terre%% et a séparer les [[Tuhuinn]] de la masse du %%Grand Continent%%. Il a ainsi fais dérivé les [[Tuhuinn]] a leur emplacement actuel, en créant par la même occasion l'archipel tel que nous la connaissons. %%Reggigigas%% a aussi fais régresser les vivants au niveau des connaissance technologique et magique. Seul quelques petits peuples éloigné et peu connu ont réussie à garder une partie de leur savoir comme [[Rannsachadh]].
+À l'aube des temps, alors que les dieux et les êtres vivants coexistaient en harmonie sur %%Terre%%, les îles [[Tuhuinn]] faisaient partie du %%Grand Continent%%. Lors de %%la guerre des dieux%%, de nombreuses batailles eurent lieu aux [[Tuhuinn]], laissant plusieurs marques irréversibles, comme les deux cratères : %%Cratère de [[Chlì`Tuhuinn]]%% et %%Cratère de [[Deas`Tuhuinn]]%%. C'est à cette époque qu'apparut également la plus grande anomalie de l'archipel : la région du %%champ de bataille de [[Deas`Tuhuinn]]%%.
+
+%%La guerre des dieux%% se conclut par la décision de %%Reggigigas%%, dieu créateur de %%Terre%% et de la vie, d'interdire aux dieux de revenir sur %%Terre%%. Pour affirmer son autorité, il sépara les [[Tuhuinn]] de la masse du %%Grand Continent%%, les faisant dériver à leur emplacement actuel, et créant ainsi l'archipel tel que nous le connaissons.
+
+%%Reggigigas%% fit également régresser les vivants au niveau de l'âge des tribus. Seuls quelques petits peuples isolés et peu connus, comme [[Rannsachadh]], réussirent à préserver une partie de leur savoir.
 
 ### L'Ere tribale
 
-Après les événements de %%la guerre des dieux%%, il ne faisaient pas bon vivre dans les [[Tuhuinn]]. Les habitants étaient redevenue des tribus insignifiante et de nombreuses guerre et massacre ont eu lieu. Seul [[Rannsachadh]] a réussie à maintenir ses connaissances et sa technologique grâce à la magique mais au vu de cette environnement dangereux, ils décidèrent de se fermé au monde et de lancé un sort antique de création de cyclone en continue sur %%la mer au centre des [[Tuhuinn]]%%. Petit à petit, une identité commune entre les races et les régions s'est formé. Un panthéons archaïque,%%la religion celtique%%, et une protoculture,%%la culture celtique%%, est né. Les premier pays se sont formé.
-Il n'existe dans le monde que très peu de document de cette époque.
+Après les événements de %%la guerre des dieux%%, la vie aux [[Tuhuinn]] devint très difficile. Les habitants redevinrent des tribus insignifiantes, et de nombreuses guerres et massacres éclatèrent. Seul [[Rannsachadh]] parvint à conserver ses connaissances et sa technologie grâce à la magie, mais, en raison de cet environnement dangereux, ils décidèrent de se fermer au monde en lançant un sort antique de création de cyclone permanent sur %%la mer au centre des [[Tuhuinn]]%%.
+
+Petit à petit, une identité commune entre les races et les régions se forma. Un panthéon archaïque, %%la religion celtique%%, et une protoculture, %%la culture celtique%%, virent le jour. Les premiers pays se formèrent.  
+Il existe très peu de documents relatifs à cette époque.
 
 ### L'Ere des Royaumes
 
-Au milieu de la confusion de l'ère tribale, un pays du %%Grand Continent%% avait réussie l'exploit de rassembler de nombreuses tributs dans un seul empire : %%Empire Romain%%. Cette empire, depuis de nombreuses années maintenant, s'était étendue de tout coté jusqu'à la côte ouest du %%Grand Continent%%. Cette empire très expansionniste et centré sur la guerre avait commencé à pacifier les régions des [[Tuhuinn]] en commençant par [[Deas`Tuhuinn]]. 
+Au milieu de la confusion de l'ère tribale, un pays du %%Grand Continent%% réussit l'exploit de rassembler de nombreuses tribus en un seul empire : %%Empire Romain%%. Cet empire, depuis de nombreuses années, s'était étendu dans toutes les directions jusqu'à atteindre la côte ouest du %%Grand Continent%%. Expansionniste et centré sur la guerre, il commença à pacifier les régions des [[Tuhuinn]], en débutant par [[Deas`Tuhuinn]].
 
 ![[Tuhuinn_4k_2Up_RomainInvasion.png]]
-carte des territoires détenue par %%Empire Romain%% pendant son extension maximum (en rouge)
+Carte des territoires détenus par %%Empire Romain%% à son apogée (en rouge)
 
-Un jour %%Empire Romain%% a commencé a progressivement s'en aller de l'archipel en laissant tout sur place. Cela a entrainer un vide en terme de pouvoir dans la région et tout spécialement à [[Chlì`Tuhuinn]] où ils y avaient plus de populations et de territoires à gérer.
-Ce vide a permis a de nombreux seigneurs de guerre de former des petits états sur les ruines de l'%%Empire Romain%%.
+Un jour, %%Empire Romain%% commença à se retirer progressivement de l'archipel, abandonnant tout sur place. Cela entraîna un vide de pouvoir dans la région, particulièrement à [[Chlì`Tuhuinn]], où se concentraient les populations et les territoires les plus importants.  
+Ce vide permit à de nombreux seigneurs de guerre de former de petits États sur les ruines de l'%%Empire Romain%%.
 
 ### L'Ere des Seigneurs
 
-Après la désertion de la zone par l'%%Empire Romain%%, énormément de petits seigneurs se sont fait la guerre dans le but de se partager les ressources et le territoire des [[Tuhuinn]]. Dans [[Deas`Tuhuinn]], grâce aux différentes particularité géographique de l'île, des Royaumes se sont vite formé. Par exemple le Royaume Elfe d'[[Altìr]] bloqué par les [[Sgiath]] et la forêt de [[Fa Leth]] s'est unifié très rapidement. Du côté de [[Chlì`Tuhuinn]] appelé à l'époque %%ancien nom Chli%%, les choses ne se sont vraiment pas bien passé. L'abondance de grandes plaines, de ressources et de populations sur l'île a favoriser une bataille féroce entre les différents seigneurs.
-Après plusieurs décennie de combats plusieurs puissances se sont développer avec comme plus importante le Royaume de [[Chlì]]. Ce royaume s'est très vite affirmer comme la plus grande puissance militaire de la région et ses doctrine expansionniste lui a permis de devenir le plus grand pays des [[Chlì`Tuhuinn]]. 
+Après le retrait de l'%%Empire Romain%%, une multitude de petits seigneurs se livrèrent une guerre acharnée pour se partager les ressources et les territoires des [[Tuhuinn]].
+
+À [[Deas`Tuhuinn]], grâce aux particularités géographiques de l'île, des royaumes se formèrent rapidement. Par exemple, le royaume elfe d'[[Altìr]], isolé par les [[Sgiath]] et la forêt de [[Fa Leth]], s'unifia très vite. En revanche, à [[Chlì`Tuhuinn]], appelé à l'époque %%ancien nom Chli%%, la situation dégénéra. L'abondance de grandes plaines, de ressources et de populations favorisa une lutte féroce entre les différents seigneurs.
+
+Après plusieurs décennies de combats, des puissances émergèrent, notamment le royaume de [[Chlì]]. Ce royaume s'affirma rapidement comme la plus grande puissance militaire de la région, et ses doctrines expansionnistes lui permirent de devenir le plus grand pays des [[Chlì`Tuhuinn]] (l'île reprit même le nom de ce pays).
+
+Après de nombreuses guerres, le royaume de [[Chlì]] finit par unifier presque entièrement les [[Chlì`Tuhuinn]]. Cependant, la soif expansionniste de ce royaume, désormais nommé Empire de [[Chlì]], ne s'éteignit jamais. Il continua son expansion vers l'est, en déclarant la guerre à [[Virkninng]], au sud de [[Deas`Tuhuinn]]. [[Deas`Tuhuinn]] forma une union appelée [[Deahonadh]], ayant pour objectif de défendre l'île. Tous les pays composant [[Deas`Tuhuinn]] s'engagèrent dans cette guerre contre l'Empire de [[Chlì]].
+
+La guerre dura de nombreuses années sans qu'aucun camp ne prenne l'avantage. L'Empire de [[Chlì]] disposait d'une infanterie redoutable et d'engins de siège de dernière génération, tandis que [[Deahonadh]] excellait dans les combats navals et la cavalerie.
+
+Un jour, [[Rannsachadh]], qui s'était isolé pendant plusieurs siècles, décida de rompre son sortilège cyclonique et d'intervenir dans le conflit. Cette intervention marqua la défaite de l'Empire de [[Chlì]] et provoqua sa destruction.
+
+### L'Ere des Empires
+
+Avec l'Empire de [[Chlì]] fracturé en mille morceaux et [[Deahonadh]] incapable de représenter un véritable pouvoir politique, [[Rannsachadh]] s'imposa comme le grand vainqueur de la guerre. À ce moment-là, [[Rannsachadh]] contrôlait tout, directement ou indirectement. Sous couvert de guildes d'aventuriers ou de missions de pacification, le pays académie influença les guerres, les politiques et les territoires. Tous les nobles des [[Tuhuinn]] venaient y étudier la magie, l'étiquette ou la stratégie dans l'[[académie de Rannsachadh]].
+
+Une paix relative s'installa sur [[Deas`Tuhuinn]], mais sur [[Chlì`Tuhuinn]], de nombreuses guerres éclatèrent entre les descendants des nobles et des militaires de l'ancien Empire de [[Chlì]]. Dans ce climat de chaos, les %%viking%% lancèrent une grande offensive dans le nord de [[Chlì`Tuhuinn]], s'emparant d'une vaste partie de son territoire.
+
+Parallèlement, un nouvel empire, l'%%Empire Byzantin%%, qui avait pris la place de l'%%Empire Romain%%, nourrissait des ambitions de reconquête des territoires des [[Tuhuinn]]. Cet empire exerçait une forte influence sur le Royaume de [[Demayrg]], culturellement et commercialement proche de lui. Une guerre entre [[Demayrg]], soutenu par l'%%Empire Byzantin%%, et [[Deahonadh]] devenait imminente.
+
+De plus, une religion monothéiste venue de l'%%Empire Byzantin%%, prônant un Dieu unique, gagna en popularité dans les cercles aisés de la société de [[Deas`Tuhuinn]]. Cette religion, fondamentalement raciste envers les races non humaines, se répandit rapidement auprès de la population de [[Demayrg]] et [[Linneach]]. Les tensions entre communautés autrefois alliées s'intensifièrent, et des classifications raciales furent publiées par les états. Les Gobelins furent catégorisés comme "semi-intelligents", tandis que d'autres créatures furent directement classées comme "monstres".
+
+Trois cents ans après la chute de l'Empire de [[Chlì]], l'[[académie de Rannsachadh]] décida d'ouvrir ses portes aux différentes classes de combattants pour pallier le manque de personnel. Parmi ces nouvelles recrues, beaucoup furent embrigadés par la secte de Tiamat, la déesse mère des dragons, qui tenta de la libérer de son sceau datant de la %%guerre des dieux%%, mais sans succès.
+
+Trente ans après cet événement, dans différentes villes de [[Deas`Tuhuinn]] et [[Chlì`Tuhuinn]], des dragons s'éveillèrent et détruisirent tout sur leur passage. Peu après, des dieux maléfiques s'affranchirent de l'autorité de %%Reggigigas%% et retournèrent sur Terre. Enfin, des démons inférieurs de %%Satan%% traversèrent l'espace-temps avec pour objectif d'annihiler toute forme de vie.
+
+Ce fut le début de l'[[Apocalypse]]. Le monde bascula de l'epic fantasy à la dark fantasy.
+
+### L'[[Apocalypse]]
+
+L'[[Apocalypse]] est à la fois un événement et une époque. Il désigne non seulement le moment où le monde entier s'engagea dans sa propre destruction, mais aussi tout ce qui suivit cet événement.
+
+Nous n'avons encore rien prévu pour cette époque.
