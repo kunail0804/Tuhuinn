@@ -88,7 +88,7 @@
     {
       "id": "tuhuinn_4k_2Up",
       "locked": false,
-      "lastAccessed": 1726255630801,
+      "lastAccessed": 1733350165328,
       "markers": [
         {
           "id": "ID_1ad8ea2ba808",
@@ -1217,7 +1217,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Régions/Map Tuhuinn.md"
+        "Map Tuhuinn.md"
       ]
     }
   ],
@@ -1339,12 +1339,13 @@
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "1200px",
-    "image": "[[Tuhuinn_4k_2Up.png]]",
+    "height": "500px",
+    "image": "[[Tuhuinn_4k_2Up.png|base layer]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[Tuhuinn_4k_2Up.png]]"
+      "[[Tuhuinn_4k_2Up.png|base layer]]",
+      "[[Tuhuinn_4k_2Up.png|country layer]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -1365,7 +1366,6 @@
     "zoomDelta": 1,
     "zoomFeatures": false,
     "id": "tuhuinn_4k_2Up",
-    "width": "100%",
     "filterTag": []
   },
   "enableDraw": true,

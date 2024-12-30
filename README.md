@@ -20,4 +20,4 @@ Nous nous concentrons sur les Tuhuinn pour l'instant mais avons un certains nomb
 
 ## L'avancer du projet
 
-A l'heure actuel le projet n'est que dans sa première phase de développement. La map des Tuhuinn a été totalement fini mais presque rien n'a été écrit.
+A l'heure actuel le projet n'est que dans sa première phase de développement. La map des Tuhuinn et une histoire globale a été totalement fini mais presque rien n'a été écrit. Il nous manque beaucoup de noms de personnage et de lieu. Nous les ajoutons selon notre temps libre et notre envie. Dans les documents vous verrez souvent des liens qui ne mènerons nul part ou des %%quelques chose%% qui signifie que le nom est sujet à changement.
