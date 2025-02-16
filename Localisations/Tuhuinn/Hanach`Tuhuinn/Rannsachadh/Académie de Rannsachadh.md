@@ -1,4 +1,14 @@
-académie de magie
+---
+parent: "[[Rannsachadh]]"
+tags:
+  - City
+  - Place
+  - Academy
+status: false
+---
+---
+
+## Académie de magie
 
 Hiérarchie :
 Conseil des anciens :
@@ -28,4 +38,3 @@ milicien, sergent, chef de bastion, chef de branche, chef de région, chef de Mi
 
 Il existe à certain endroit dans les Tuhuinn (principalement dans les villes) des branches externe de l'académie qui sert de point d'accroche au mission. On appelle cette endroit la guilde des aventuriers. Des missions locale y sont proposé pour quelques pièces de monnaies autant à des mercenaire de passage que à des membres de l'académie. Il y a aussi dans ces branches un petit nombre de membres de la milice sous les ordres d'un chef de bastion.
 Une branche possède une zone de gouvernance et une branche mère. Cette branche mère situé dans les capitales dans la plupart des cas sont gouverner par un chef de branche.
-

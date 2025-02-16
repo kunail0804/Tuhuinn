@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5db7c9a1a56ded",
+        "id": "08ffe372f3ef024b",
         "type": "tabs",
         "children": [
           {
-            "id": "96301bb69e9849b3",
+            "id": "d154ac47dd0d0d91",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "c1bda098f0874e71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Localisations/Hanach`Tuhuinn/Hanach`Tuhuinn.md",
+                "file": "Localisations/Tuhuinn/Grothar/Grothar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hanach`Tuhuinn"
+              "title": "Grothar"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -41,10 +52,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -94,17 +106,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Localisations/Hanach`Tuhuinn/Hanach`Tuhuinn.md",
+                "file": "Localisations/Tuhuinn/Grothar/Grothar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hanach`Tuhuinn"
+              "title": "Rétrolien pour Grothar"
             }
           },
           {
@@ -128,10 +140,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
@@ -152,12 +166,32 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           },
           {
             "id": "63e400576e1e294c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
+            }
+          },
+          {
+            "id": "451cfbe7727effdd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
+            }
+          },
+          {
+            "id": "0a3229b49c0049a0",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -167,17 +201,17 @@
             }
           },
           {
-            "id": "451cfbe7727effdd",
+            "id": "86a750aa559ced4d",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "git-view",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -185,66 +219,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "fffb6baa54dbbeae",
+  "active": "c1bda098f0874e71",
   "lastOpenFiles": [
+    "Sans titre.md",
+    "Localisations/Tuhuinn/Tuhuinn.md",
+    "Espèces/Varnoblins.md",
+    "Localisations/Tuhuinn/Grothar/Grothar.md",
     "assets/templates/Title.md",
-    "Localisations/Hanach`Tuhuinn/Hanach`Tuhuinn.md",
-    "Tuhuinn.md",
-    "Localisations/Untitled.md",
-    "Localisations/Hanach`Tuhuinn/Rannsachadh/académie de Rannsachadh.md",
-    "assets/templates",
-    "Untitled.md",
-    "Localisations/Hanach`Tuhuinn/Rannsachadh/Rannsachadh.md",
-    "Localisations/Deas`Tuhuinn/Deas`Tuhuinn.md",
-    "Localisations/Deas`Tuhuinn/Beinnjwall/Beinnjwall.md",
+    "Espèces",
+    "Personnages/Rakos.md",
+    "Localisations/Tuhuinn/Grothar/Mer de jade.md",
     "Personnages/Patrick Crayon.md",
-    "Linneach.md",
-    "Map Tuhuinn.md",
+    "Localisations/Tuhuinn/Hanach`Tuhuinn/Hanach`Tuhuinn.md",
+    "assets/templates/SOMETHING.md",
+    "Localisations/Tuhuinn/Grothar/Sans titre.md",
+    "Localisations/Tuhuinn/Hanach`Tuhuinn/Rannsachadh/Rannsachadh.md",
+    "Localisations/Tuhuinn/Hanach`Tuhuinn/Rannsachadh/Académie de Rannsachadh.md",
+    "Localisations/Tuhuinn/Hanach`Tuhuinn/Rannsachadh/académie de Rannsachadh.md",
+    "Localisations/Tuhuinn/Deas`Tuhuinn/Deas`Tuhuinn.md",
+    "Localisations/Tuhuinn/Chlì`Tuhuinn/Chlì`Tuhuinn.md",
     "README.md",
+    "Localisations/Tuhuinn/Deas`Tuhuinn/Beinnjwall/Beinnjwall.md",
+    "Map Tuhuinn.md",
+    "assets/images/Tuhuinn_4k_2Up.png",
+    "assets/images/Tuhuinn_4k_2Up_RomainInvasion.png",
+    "Untitled.md",
+    "Localisations/Tuhuinn",
+    "Localisations/Tuhuinn/Grothar",
+    "Localisations/Untitled.md",
+    "assets/templates",
+    "Linneach.md",
     "Tuhuinn_4k_2Up.png",
     "Localisations/Hanach`Tuhuinn/L'académie de Rannsachadh.md",
-    "Localisations/Deas`Tuhuinn/Beinnjwall/Beinnjwall-FullText.png",
+    "Localisations/Tuhuinn/Deas`Tuhuinn/Beinnjwall/Beinnjwall-FullText.png",
     "Grand Continent.md",
-    "Localisations/Chlì`Tuhuinn/Chlì`Tuhuinn.md",
-    "Localisations/Chlì`Tuhuinn",
-    "Localisations/Deas`Tuhuinn",
+    "Localisations/Tuhuinn/Chlì`Tuhuinn",
+    "Localisations/Tuhuinn/Deas`Tuhuinn",
     "Personnages",
     "Localisations",
     "Tuhuinn/README.md",
     "Tuhuinn",
-    "Régions/Drawing 2024-08-31 17.04.21.excalidraw.md",
     "Pasted Image 20240831170620_208.png",
     "Sans titre",
-    "Localisations/Hanach`Tuhuinn",
-    "dddzdzdz.md",
     "Pays/Beinnjwall/Beinnjwall-fullText.png",
     "ForgeInfernal-1Floor-2.png",
-    "Excalidraw/Tuhuinn.md",
-    "Excalidraw/Forge.md",
     "Tuhuinn.png",
-    "Excalidraw/Drawing 2024-04-23 18.42.13.excalidraw.md",
     "Sans titre.canvas",
-    "traceImage - Left - Top.png",
-    "Excalidraw/Drawing 2024-04-23 18.18.08.excalidraw.md",
-    "create a link.md",
-    "Welcome.md"
+    "traceImage - Left - Top.png"
   ]
 }
