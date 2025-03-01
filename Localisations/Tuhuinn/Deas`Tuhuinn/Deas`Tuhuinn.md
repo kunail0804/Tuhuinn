@@ -1,7 +1,8 @@
 ---
 parent: "[[Tuhuinn]]"
 tags:
-  - Continent
+  - Deas
+  - Region
 status: false
 ---
 ---

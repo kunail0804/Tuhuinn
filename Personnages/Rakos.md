@@ -5,8 +5,5 @@ tags:
 status: false
 ---
 ---
-
-
 > [!NOTE] SPOILER
 > Personnage en écriture
-

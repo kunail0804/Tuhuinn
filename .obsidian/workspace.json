@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "08ffe372f3ef024b",
+        "id": "7751a3e076862d0b",
         "type": "tabs",
         "children": [
           {
-            "id": "d154ac47dd0d0d91",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
-            "id": "c1bda098f0874e71",
+            "id": "8268a7be767352b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Localisations/Tuhuinn/Grothar/Grothar.md",
+                "file": "Espèces/Varnoblins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grothar"
+              "title": "Varnoblins"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -56,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -65,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#City/Place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +134,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           },
           {
@@ -165,16 +154,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Le module complémentaire n'est plus actif."
-            }
-          },
-          {
-            "id": "63e400576e1e294c",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {},
               "icon": "lucide-file",
               "title": "Le module complémentaire n'est plus actif."
@@ -206,57 +185,67 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c1bda098f0874e71",
+  "active": "8268a7be767352b8",
   "lastOpenFiles": [
-    "Sans titre.md",
-    "Localisations/Tuhuinn/Tuhuinn.md",
-    "Espèces/Varnoblins.md",
-    "Localisations/Tuhuinn/Grothar/Grothar.md",
-    "assets/templates/Title.md",
-    "Espèces",
-    "Personnages/Rakos.md",
-    "Localisations/Tuhuinn/Grothar/Mer de jade.md",
-    "Personnages/Patrick Crayon.md",
-    "Localisations/Tuhuinn/Hanach`Tuhuinn/Hanach`Tuhuinn.md",
-    "assets/templates/SOMETHING.md",
-    "Localisations/Tuhuinn/Grothar/Sans titre.md",
-    "Localisations/Tuhuinn/Hanach`Tuhuinn/Rannsachadh/Rannsachadh.md",
+    "Localisations/Tuhuinn/Deas`Tuhuinn/Beinnjwall/Beinnjwall-FullText.png",
+    "Localisations/Tuhuinn/Deas`Tuhuinn/Beinnjwall/Beinnjwall.md",
     "Localisations/Tuhuinn/Hanach`Tuhuinn/Rannsachadh/Académie de Rannsachadh.md",
-    "Localisations/Tuhuinn/Hanach`Tuhuinn/Rannsachadh/académie de Rannsachadh.md",
+    "Localisations/Tuhuinn/Hanach`Tuhuinn/Rannsachadh/Rannsachadh.md",
+    "Localisations/Tuhuinn/Grothar/Mer de jade.md",
+    "Localisations/Tuhuinn/Grothar/Grothar.md",
+    "Localisations/Tuhuinn/Tuhuinn.md",
+    "Localisations/Tuhuinn/Map Tuhuinn.md",
+    "Localisations/Tuhuinn/Hanach`Tuhuinn/Hanach`Tuhuinn.md",
     "Localisations/Tuhuinn/Deas`Tuhuinn/Deas`Tuhuinn.md",
     "Localisations/Tuhuinn/Chlì`Tuhuinn/Chlì`Tuhuinn.md",
+    "Personnages/Patrick Crayon.md",
+    "Personnages/Rakos.md",
+    "Untitled.canvas",
+    "Untitled Kanban.md",
+    "Place.md",
     "README.md",
-    "Localisations/Tuhuinn/Deas`Tuhuinn/Beinnjwall/Beinnjwall.md",
-    "Map Tuhuinn.md",
+    "Sans titre.md",
+    "assets/templates/Title.md",
+    "Personnages/Untitled.md",
+    "Espèces/Varnoblins.md",
+    "assets/templates/SOMETHING.md",
+    "assets/images/Water_4k_2UP.png",
+    "assets/images/Viking_4k_2Up_Cut.png",
+    "assets/images/Viking_4k_2Up.png",
+    "assets/images/Tuhuinn_4k_2Up_Cut.png",
+    "Espèces",
+    "Localisations/Tuhuinn/Grothar/Sans titre.md",
+    "Localisations/Tuhuinn/Hanach`Tuhuinn/Rannsachadh/académie de Rannsachadh.md",
     "assets/images/Tuhuinn_4k_2Up.png",
     "assets/images/Tuhuinn_4k_2Up_RomainInvasion.png",
     "Untitled.md",
@@ -266,21 +255,14 @@
     "assets/templates",
     "Linneach.md",
     "Tuhuinn_4k_2Up.png",
-    "Localisations/Hanach`Tuhuinn/L'académie de Rannsachadh.md",
-    "Localisations/Tuhuinn/Deas`Tuhuinn/Beinnjwall/Beinnjwall-FullText.png",
-    "Grand Continent.md",
     "Localisations/Tuhuinn/Chlì`Tuhuinn",
     "Localisations/Tuhuinn/Deas`Tuhuinn",
     "Personnages",
     "Localisations",
-    "Tuhuinn/README.md",
     "Tuhuinn",
     "Pasted Image 20240831170620_208.png",
     "Sans titre",
     "Pays/Beinnjwall/Beinnjwall-fullText.png",
-    "ForgeInfernal-1Floor-2.png",
-    "Tuhuinn.png",
-    "Sans titre.canvas",
-    "traceImage - Left - Top.png"
+    "Sans titre.canvas"
   ]
 }

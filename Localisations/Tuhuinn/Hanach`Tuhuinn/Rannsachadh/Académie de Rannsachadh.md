@@ -2,12 +2,11 @@
 parent: "[[Rannsachadh]]"
 tags:
   - City
-  - Place
   - Academy
+  - Place
 status: false
 ---
 ---
-
 ## Académie de magie
 
 Hiérarchie :

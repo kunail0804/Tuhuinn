@@ -1,7 +1,8 @@
 ---
 parent: "[[Tuhuinn]]"
 tags:
-  - Continent
+  - Chli
+  - Region
 status: false
 ---
 ---

@@ -1,4 +1,10 @@
-
+---
+parent: "%%Multivers%%"
+tags:
+  - Continent
+status: false
+---
+---
 ## Présentation de l'univers
 
 [[Tuhuinn]] est un univers de fantaisie prenant racine dans le médiéval fantastique tel que présenté dans le jeu de rôle _Dungeons & Dragons_ (D&D). Le projet emprunte des idées et des thèmes de plusieurs genres comme l'epic fantasy ou la dark fantasy.
